@@ -1436,3 +1436,8 @@ a {
     padding-top: calc(var(--space-md) + env(safe-area-inset-top));
   }
 }
+
+  .header {
+    padding-top: calc(var(--space-md) + env(safe-area-inset-top));
+  }
+}
