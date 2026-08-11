@@ -57,7 +57,7 @@ const config = {
   // ============================================
   dressCode: {
     principal: "Formal",
-    descripcion: "Traje de gala - No jeans ni sandalias"
+    descripcion: "Por mantener la armonia con la tematica de la velada le sugerimos evitar el tono rojo y optar por tonos suaves"
   },
 
   // ============================================
@@ -106,7 +106,7 @@ const config = {
   // ============================================
   confirmacion: {
     linkFormulario: "https://docs.google.com/forms/d/e/1FAIpQLSc-QmgXDRgUpGqew1Yb64QQYvsZ6IOxMEP4yWH28FWmUSQhfw/viewform?usp=publish-editor",  // ← COMPLETA ESTO
-    fechaLimite: "2026-06-01",
+    fechaLimite: "2026-10-29",
     mostrarFechaLimite: true
   },
 
