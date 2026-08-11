@@ -86,6 +86,7 @@ const config = {
   // ITINERARIO
   // ============================================
   itinerario: [
+    { hora: "16:00", actividad: "Iglesia", ubicacion: "Misa XV" },
     { hora: "18:00", actividad: "Recepción", ubicacion: "Entrada principal" },
     { hora: "19:00", actividad: "Cena", ubicacion: "Salón principal" },
     { hora: "22:00", actividad: "Pastel", ubicacion: "Salón principal" },
