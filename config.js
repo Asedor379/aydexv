@@ -86,9 +86,9 @@ const config = {
   // ITINERARIO
   // ============================================
   itinerario: [
-    { hora: "20:00", actividad: "Recepción", ubicacion: "Entrada principal" },
-    { hora: "21:00", actividad: "Cena", ubicacion: "Salón principal" },
-    { hora: "22:30", actividad: "Pastel", ubicacion: "Salón principal" },
+    { hora: "18:00", actividad: "Recepción", ubicacion: "Entrada principal" },
+    { hora: "19:00", actividad: "Cena", ubicacion: "Salón principal" },
+    { hora: "22:00", actividad: "Pastel", ubicacion: "Salón principal" },
     { hora: "23:00", actividad: "Baile", ubicacion: "Salón principal" }
   ],
 
