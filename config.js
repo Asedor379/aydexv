@@ -33,7 +33,7 @@ const config = {
   // UBICACIÓN
   // ============================================
   direccion: {
-    texto: "Av.Juan De la Barrera 5",
+    texto: "Calle 5 Juan Escutia",
     salon: "Salón San Lorenzo",
     googleMapsUrl: "https://www.google.com/maps/@19.4046911,-98.9750284,3a,75y,177.02h,68.92t/data=!3m7!1e1!3m5!1sUQfd8xgnsDw5kG2em2ssNQ!2e0!6shttps:%2F%2Fstreetviewpixels-pa.googleapis.com%2Fv1%2Fthumbnail%3Fcb_client%3Dmaps_sv.tactile%26w%3D900%26h%3D600%26pitch%3D21.08%26panoid%3DUQfd8xgnsDw5kG2em2ssNQ%26yaw%3D177.02!7i16384!8i8192?entry=ttu&g_ep=EgoyMDI2MDgyMy4wIKXMDSoASAFQAw%3D%3D"  // ← COMPLETA ESTO
   },
