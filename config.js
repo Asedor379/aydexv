@@ -57,7 +57,7 @@ const config = {
   // ============================================
   dressCode: {
     principal: "Formal",
-    descripcion: "Por mantener la armonia con la tematica de la velada le sugerimos evitar el tono rojo y optar por tonos suaves"
+    descripcion: "Para mantener la armonia con la tematica de la velada le sugerimos evitar el tono rojo y optar por tonos suaves"
   },
 
   // ============================================
